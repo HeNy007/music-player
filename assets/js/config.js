@@ -54,10 +54,10 @@ function aplayer () {
             cover: 'https://drive.google.com/uc?export=download&id=1cejFNJc5vS0Z1S93sTpqJkDdOTUJaa7l',
             theme: '#ebd0c2'
         }, {
-            name: 'rap fr',
+            name: 'Bad Karma',
             artist: 'Axel Thesleff',
-            url: 'http://radiosun.ice.infomaniak.ch/radiosun-high.mp3',
-            cover: 'https://generations.fr/media/radio/thumb/100x100_rap_fr1.png',
+            url: 'https://drive.google.com/uc?export=download&id=1WBxI-Na09K1qTdqanEEM8pKXyErSda88',
+            cover: 'https://drive.google.com/uc?export=download&id=1mbxgyhV4ZLqkB9NMSJ9QZo5UiojR9zAh',
             theme: '#46718b'
         }, {
             name: 'Break it Down',
