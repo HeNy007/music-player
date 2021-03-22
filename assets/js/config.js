@@ -56,7 +56,7 @@ function aplayer () {
         }, {
             name: 'Bad Karma',
             artist: 'Axel Thesleff',
-            url: 'https://drive.google.com/uc?export=download&id=1WBxI-Na09K1qTdqanEEM8pKXyErSda88',
+            url: 'http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3',
             cover: 'https://drive.google.com/uc?export=download&id=1mbxgyhV4ZLqkB9NMSJ9QZo5UiojR9zAh',
             theme: '#46718b'
         }, {
