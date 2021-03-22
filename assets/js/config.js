@@ -54,10 +54,10 @@ function aplayer () {
             cover: 'https://drive.google.com/uc?export=download&id=1cejFNJc5vS0Z1S93sTpqJkDdOTUJaa7l',
             theme: '#ebd0c2'
         }, {
-            name: 'Bad Karma',
-            artist: 'Axel Thesleff',
-            url: 'http://generationfm-rap.ice.infomaniak.ch/generationfm-rap-high.mp3',
-            cover: 'https://drive.google.com/uc?export=download&id=1mbxgyhV4ZLqkB9NMSJ9QZo5UiojR9zAh',
+            name: 'Booba',
+            artist: 'France 🇫🇷',
+            url: 'http://generations-booba.ice.infomaniak.ch/generations-booba.mp3',
+            cover: 'https://static.skyrock.fm/static/OwtEmPPmFYVRBWl_7kYQCA.S_qhWsqMCfvVsBdnwKEz7Q.adc620.jpg',
             theme: '#46718b'
         }, {
             name: 'Break it Down',
