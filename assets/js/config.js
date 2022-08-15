@@ -54,28 +54,28 @@ function aplayer () {
             cover: 'https://drive.google.com/uc?export=download&id=1cejFNJc5vS0Z1S93sTpqJkDdOTUJaa7l',
             theme: '#ebd0c2'
         }, {
-            name: 'Booba',
-            artist: 'France 🇫🇷',
-            url: 'http://generations-booba.ice.infomaniak.ch/generations-booba.mp3',
-            cover: 'https://static.skyrock.fm/static/OwtEmPPmFYVRBWl_7kYQCA.S_qhWsqMCfvVsBdnwKEz7Q.adc620.jpg',
+            name: 'Anis Fm',
+            artist: 'bein radio',
+            url: 'http://78.129.222.70:9487/stream/1/',
+            cover: 'data:image/jpeg;base64,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',
             theme: '#46718b'
         }, {
-            name: 'Rohff',
-            artist: 'France 🇫🇷',
-            url: 'http://generation-rohff.ice.infomaniak.ch/generation-rohff.mp3',
-            cover: 'https://static.skyrock.fm/static/C1KiCr5wNjkMnTZt6vHmFg.IYDSfpkYCdX2jS5JLdRmdg.adc620.jpg',
+            name: 'bein premium 1',
+            artist: 'bein radio',
+            url: 'http://45.135.194.73/SONICPR1/mpegts?token=vcI9k41in60+1Gc3mI/DDUdp0Qe37Z16Ae+AttH7eQ=',
+            cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qMC1XN7OlFrEhRbEmPD5u9loHZkjjwrDAg&usqp=CAU',
             theme: '#505d6b'
         }, {
-            name: 'Tokyo Drift',
-            artist: 'Teriyaki Boyz',
-            url: 'https://drive.google.com/uc?export=download&id=1Uc5PKDIf6LC1QhnkIZTQNwSABVeJAUJ_',
-            cover: 'https://drive.google.com/uc?export=download&id=1gxLatNDG1Yd2ceXjNSlMsoMp0lsncqjc',
+            name: 'bein premium 2',
+            artist: 'bein radio',
+            url: 'http://45.135.194.73/SONICPR2/mpegts?token=vcI9k41in60+1Gc3mI/DDUdp0Qe37Z16Ae+AttH7eQ=',
+            cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qMC1XN7OlFrEhRbEmPD5u9loHZkjjwrDAg&usqp=CAU',
             theme: '#505d6b'
         }, {
-            name: 'Top Songs',
-            artist: 'Skillet',
-            url: 'https://drive.google.com/uc?export=download&id=1j27KxrLTaIsWhhKQq6nut0REcV8JRDes',
-            cover: 'https://drive.google.com/uc?export=download&id=1MraXTWrm08g9eAayrx7Qk2cUxWabmBnn',
+            name: 'bein premium 3',
+            artist: 'bein radio',
+            url: 'http://45.135.194.73/SONICPR3/mpegts?token=vcI9k41in60+1Gc3mI/DDUdp0Qe37Z16Ae+AttH7eQ=',
+            cover: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4qMC1XN7OlFrEhRbEmPD5u9loHZkjjwrDAg&usqp=CAU',
             theme: '#505d6b'
         }, {
             name: 'New Face',
